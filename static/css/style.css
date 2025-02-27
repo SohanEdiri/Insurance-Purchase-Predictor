@@ -1,0 +1,64 @@
+body {
+    background-color: #f7f8fa;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    max-width: 600px;
+}
+
+
+.card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #007bff;
+}
+
+#result {
+    font-size: 1.2rem;
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+button {
+    width: 48%;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+#reset-btn {
+    background-color: #e74c3c;
+}
+
+#reset-btn:hover {
+    background-color: #c0392b;
+}
+
+.btn-success {
+    background-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
+@media (max-width: 576px) {
+    .container {
+        padding: 15px;
+    }
+
+    button {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
