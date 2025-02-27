@@ -47,10 +47,7 @@ All dependencies can be installed using the `requirements.txt` file.
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/insurance-purchase-prediction.git
-cd insurance-purchase-prediction
-```
+You can either download or clone this repository to your local machine.
 
 ### 2. Install Required Packages
 
