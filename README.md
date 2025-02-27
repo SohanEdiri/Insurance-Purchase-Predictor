@@ -1,4 +1,4 @@
-# Insurance Purchase Prediction - Computational Intelligence Assignment
+# Insurance Purchase Prediction 
 
 This web application predicts whether a customer will purchase insurance based on various demographic and behavioral factors. The AI model powering this application is trained using data from the Kaggle competition Playground Series - Season 4, Episode 7: Binary Classification of Insurance Cross-Selling.
 
